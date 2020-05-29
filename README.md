@@ -1,8 +1,3 @@
 # flutter_module_linphone
 
-linphone 扩展
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.dev/).
+linphone 扩展 [linphone-android](https://github.com/OpenVoIP/linphone-android)
